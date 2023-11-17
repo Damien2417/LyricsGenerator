@@ -1,1 +1,3 @@
-# LyricsGenerator
+# Projet de Génération Automatique de Paroles de Chansons
+
+Ce projet Jupyter a pour but de développer un modèle capable de générer des paroles de chansons en fonction d'une entrée utilisateur. L'objectif est de créer un système d'intelligence artificielle qui, à partir d'une phrase, d'un mot-clé ou d'un thème donné par l'utilisateur, génère des paroles de chanson cohérentes et créatives. Le modèle s'appuie sur des techniques avancées de traitement du langage naturel (NLP) et d'apprentissage automatique pour comprendre le style, la structure et les motifs communs dans l'écriture des paroles de chansons. Ce projet vise à explorer les potentialités de l'IA dans le domaine de la création artistique et pourrait servir d'outil pour les auteurs-compositeurs, les poètes, ou toute personne intéressée par la création littéraire automatisée.
